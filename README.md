@@ -45,8 +45,10 @@ The goal of this project is to:
 ---
 
 ## 📸 Demo Screenshots
-
-> Add your screenshots here for presentation.
+![Screenshot 2025-05-22 170354](https://github.com/user-attachments/assets/20fc21bc-e574-4c08-ae70-a416b6ddc607)
+![Screenshot 2025-05-22 170408](https://github.com/user-attachments/assets/50440d3e-b07f-470b-ac14-3f28a5c6ae54)
+![Screenshot 2025-05-22 170525](https://github.com/user-attachments/assets/800dd174-730a-4a40-a005-fcc940fd1f58)
+![Screenshot 2025-05-22 170536](https://github.com/user-attachments/assets/514a1c26-c1f5-4f17-9138-382989a85776)
 
 ---
 
